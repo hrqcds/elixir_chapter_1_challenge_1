@@ -1,0 +1,19 @@
+{
+  "failed": [],
+  "passed": [
+    {
+      "describe": "call/1",
+      "file": "c:/Users/hrq12/Documents/Dev/Elixir/elixir_chapter_1_challenge_1/test/list_lenght_test.exs",
+      "line": 5,
+      "module": "Elixir.ListLengthTest",
+      "test": "test call/1 count list elements"
+    },
+    {
+      "describe": "call/1",
+      "file": "c:/Users/hrq12/Documents/Dev/Elixir/elixir_chapter_1_challenge_1/test/list_lenght_test.exs",
+      "line": 15,
+      "module": "Elixir.ListLengthTest",
+      "test": "test call/1 passing an empty list"
+    }
+  ]
+}
